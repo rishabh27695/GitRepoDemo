@@ -1,5 +1,2 @@
 This is first child1 file1.
-This is check11.
-=======
-This is first child1 file.
-child1 first Ui changes .
+This is commit 1UI
