@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 This is first child1 file1.
 This is check11.
 =======
 This is first child1 file.
 child1 first Ui changes .
->>>>>>> ee0cfbf8cf153ca9f4169ceb28c873328b68de68
