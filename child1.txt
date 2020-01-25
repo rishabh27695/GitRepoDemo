@@ -1,3 +1,0 @@
-This is first child1 file1.
-This is commit 1UI
-Thish is system1 changes.
